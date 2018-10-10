@@ -1,0 +1,111 @@
+<resources>
+    <string name="app_name">Timetable Reminder</string>
+    <string-array name="faculty_array">
+        <item>Prof. Mohammad Sarosh Umar</item>
+        <item>Prof. Nesar Ahmad</item>
+        <item>Prof. Ash Mohammad Abbas</item>
+        <item>Prof. M.M. Sufyan Beg</item>
+        <item>Mr. Misbahur Rahman Warsi</item>
+        <item>Dr. Izharuddin</item>
+        <item>Dr. Mohammad Athar Ali</item>
+        <item>Dr. Rashid Ali</item>
+        <item>Dr. Saiful Islam</item>
+        <item>Mr. Mohammed Abdul Qadeer</item>
+        <item>Mr. Nadeem Akhtar</item>
+        <item>Mr. M. Inamullah</item>
+        <item>Mr. Tameem Ahmad</item>
+        <item>Mr. Asad Mohammed Khan</item>
+        <item>Mr. Muneeb Hasan Khan</item>
+        <item>Mr. Faisal Alam</item>
+        <item>Ms. Hira Javed</item>
+        <item>Mr. Mohd. Imran</item>
+        <item>Mr. Misbahul Haque</item>
+        <item>Mr. Mohd. Shoaib</item>
+        <item>Mr. Syed Usman Ahmed</item>
+    </string-array>
+
+    <string-array name="designation_array">
+        <item>Professor and Chairman</item>
+        <item>Professor</item>
+        <item>Professor</item>
+        <item>Professor</item>
+        <item>Associate Professor</item>
+        <item>Associate Professor</item>
+        <item>Associate Professor</item>
+        <item>Associate Professor</item>
+        <item>Associate Professor</item>
+        <item>Assistant Professor</item>
+        <item>Assistant Professor</item>
+        <item>Assistant Professor</item>
+        <item>Assistant Professor</item>
+        <item>Assistant Professor</item>
+        <item>Assistant Professor</item>
+        <item>Assistant Professor</item>
+        <item>Assistant Professor</item>
+        <item>Assistant Professor</item>
+        <item>Assistant Professor</item>
+        <item>Assistant Professor</item>
+        <item>Assistant Professor</item>
+    </string-array>
+    <string-array name="semester_array">
+        <item>Semester 1</item>
+        <item>Semester 2</item>
+        <item>Semester 3</item>
+        <item>Semester 4</item>
+        <item>Semester 5</item>
+        <item>Semester 6</item>
+        <item>Semester 7</item>
+        <item>Semester 8</item>
+    </string-array>
+    <string-array name="time_array">
+        <item>08:00 AM - 08:50 AM</item>
+        <item>08:50 AM - 09:40 AM</item>
+        <item>09:40 AM - 10:30 AM</item>
+        <item>10:30 AM - 11:20 AM</item>
+        <item>11:20 AM - 12:10 PM</item>
+        <item>12:10 PM - 01:00 PM</item>
+        <item>01:00 PM - 02:00 PM</item>
+        <item>02:00 PM - 04:15 PM (Group 1)</item>
+        <item>02:00 PM - 04:15 PM (Group 2)</item>
+    </string-array>
+    <string-array name="column_array">
+        <item>I</item>
+        <item>II</item>
+        <item>III</item>
+        <item>IV</item>
+        <item>V</item>
+        <item>VI</item>
+        <item>BREAK</item>
+        <item>GROUP1</item>
+        <item>GROUP2</item>
+    </string-array>
+    <string-array name="time_array1">
+        <item>08:00 AM - 08:50 AM</item>
+        <item>08:50 AM - 09:40 AM</item>
+        <item>09:40 AM - 10:30 AM</item>
+        <item>10:30 AM - 11:20 AM</item>
+        <item>11:20 AM - 12:10 PM</item>
+        <item>12:10 PM - 01:00 PM</item>
+        <item>01:00 PM - 02:00 PM</item>
+        <item>02:00 PM - 04:15 PM</item>
+    </string-array>
+    <string-array name="column_array1">
+        <item>I</item>
+        <item>II</item>
+        <item>III</item>
+        <item>IV</item>
+        <item>V</item>
+        <item>VI</item>
+        <item>BREAK</item>
+        <item>LAB</item>
+    </string-array>
+    <string-array name="day_array">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </string-array>
+</resources>

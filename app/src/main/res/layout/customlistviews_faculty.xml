@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="65dp">
+
+    <ImageView
+        android:layout_width="80dp"
+        android:layout_height="65dp"
+        android:id="@+id/iv_faculty"
+        android:layout_marginLeft="10dp"
+        android:background="@drawable/image_shape"/>
+
+    <TextView
+        android:id="@+id/tv_faculty"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_toRightOf="@+id/iv_faculty"
+        android:text="faculty name"
+        android:textColor="@android:color/black"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        app:fontFamily="cursive" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv_designation"
+        android:text="designation"
+        android:layout_toRightOf="@+id/iv_faculty"
+        android:layout_marginLeft="20dp"
+        android:layout_below="@+id/tv_faculty"
+        android:textSize="14dp"/>
+
+    <TextView
+        android:id="@+id/tv_see"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="12dp"
+        android:text="click to know timetable ..."
+        android:textSize="10dp"
+        android:textStyle="italic"
+        android:visibility="visible"
+        app:fontFamily="serif" />
+
+</RelativeLayout>
